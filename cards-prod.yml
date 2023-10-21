@@ -1,11 +1,13 @@
-build:
-  version: "1.0"
-
-cards:
-  message: "Hey, welcome to EazyBank cards related prod APIs"
-  contactDetails:
-    name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
-  onCallSupport:
-    - (617) 432-2356
-    - (936) 564-8721
+giganigga:
+  env: "prod"
+  type: "MONOBANK"
+  age: 711
+  family:
+    father: Ihor
+    mother: Kolomoyskii
+  deployment:
+    - 1999
+    - 2004
+    - 2000
+    - 1111
+    - 9

@@ -1,11 +1,10 @@
-build:
-  version: "3.0"
-
-accounts:
-  message: "Welcome to EazyBank accounts related docker APIs "
-  contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazybank.com"
-  onCallSupport:
-    - (555) 555-1234
-    - (555) 523-1345
+giganigga:
+  env: "default"
+  type: "sdfgsdgsd"
+  age: 72
+  family:
+    father: "{cipher}77073bb0e8b0614ed7f2f4e0534f443d2704213c7aaaa2042a59992b4dd22db0"
+    mother: "{cipher}a250b42ce4ca15b3534088b3fef91b267e3929027fbb3ee7ef78ba2fdd28241e"
+  deployment:
+    - 1999
+    - 2004
